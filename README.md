@@ -1,3 +1,5 @@
+Data is available at https://archive.org/download/midcolumbia
+
 `ia_books.json` is a list of all books on Open Library linked to digitized archive.org editions
 
 ```
